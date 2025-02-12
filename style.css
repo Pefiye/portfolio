@@ -213,6 +213,10 @@ a{
     margin: 30px;
     margin-top: 70px;
 }
+#sosmed
+{
+    z-index: 99;
+}
 #sosmed img
 {
     width: 50px;
